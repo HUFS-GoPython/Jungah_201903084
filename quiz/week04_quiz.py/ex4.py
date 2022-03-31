@@ -1,0 +1,1 @@
+# text4에서 democracy는 몇 번 나오는 지 출력
